@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glasse for princes, or, King Francis his admonition to his sonne Henry the Second king of the House of Valois in France also the bloudy end of King Henry and all his posterity for neglecting his fathers will, in not doing justice upon all those that had their hand in massacreing the Protestants in Merindol.</title>
+            <author>Francis, de Sales, Saint, 1567-1622.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40388</idno>
+            <idno type="STC">Wing F2067</idno>
+            <idno type="STC">ESTC R40976</idno>
+            <idno type="EEBO-CITATION">19540167</idno>
+            <idno type="OCLC">ocm 19540167</idno>
+            <idno type="VID">109086</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109086)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1687:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glasse for princes, or, King Francis his admonition to his sonne Henry the Second king of the House of Valois in France also the bloudy end of King Henry and all his posterity for neglecting his fathers will, in not doing justice upon all those that had their hand in massacreing the Protestants in Merindol.</title>
+                  <author>Francis, de Sales, Saint, 1567-1622.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Francis by Wing.</note>
+                  <note>Numerous errors in paging.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry --  II, --  King of France, 1519-1559.</term>
+               <term>Persecution --  France.</term>
+               <term>France --  History --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109086:1"/>
+            <pb facs="tcp:109086:1"/>
+            <p>
+               <hi>A LOOKING-GLASSE</hi> FOR PRINCES; OR KING FRANCIS His Admonition to his Sonne <hi>Henry</hi> the ſecond King of the houſe of <hi>Valois</hi> in <hi>France.</hi>
+            </p>
+            <p>Alſo the bloudy end of King <hi>Henry</hi> and all his Poſterity, for neglecting his Fathers will, in not doing juſtice upon all thoſe that had their hand in Maſſacreing the <hi>Proteſtants</hi> in <hi>Merindol.</hi>
+            </p>
+            <p>London, Printed by <hi>W. Jones.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:109086:2"/>
+            <head>A Looking-Glaſſe for PRINCES OR King <hi>Francis</hi> his Admonition to his ſon <hi>Henry</hi> the ſecond King of the houſe of <hi>Valois</hi> in <hi>France.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">K</seg>ING <hi>Francis</hi> the firſt French King of the houſe of <hi>Valois,</hi> lying about ſome two yeares of a Feavor, and in this weakneſſe, one <hi>John Minors</hi> Lord of <hi>Oppingdon;</hi> informed the King that thoſe in Province were 12000 up in Armes, with Drums ſtruk up and Enſignes diſplayed intending to take in Marcellus; whereupon the King gave him power to ſuppreſſe them, but the ſaid <hi>Iohn M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res</hi> having power, came upon thoſe of <hi>Merindol &amp;c.</hi> and put them all to the ſword, both men, weomen, and children, ſhewing no mercy to thoſe weomen that were with child, theſe people of <hi>Merindol</hi> living peacably. Some halfe a yeare after, a Noble man came to viſit the King, and was glad to ſee the King ſo well recovered, as to walke up and downe his chamber: Firſt the King demanded of this Noble man, if they were all at quiet in Province, he de<g ref="char:EOLhyphen"/>ſired of the King that he might ſpeak the truth, he declared to the King that there was not any up i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Armes, and how the ſaid <hi>Iohn Minors</hi> with his ſoul<g ref="char:EOLhyphen"/>dier
+<pb n="2" facs="tcp:109086:2"/>put them all to the ſword. The King hearing of this cruelty, ſaith he, was ever King thus abuſed by <hi>Minors</hi> and others: with very greife he fell into a relapſe and made his will, charging his ſon to do juſtice upon all the cheife Authors of this ſo blou<g ref="char:EOLhyphen"/>dy a Maſſacre upon innocent Chriſtians, beſides he ſends for his ſon, ſaying, ſee thou do juſtice on thoſe wicked perſons, if no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God will root out thee and thy race for ever; his Father being departed, after 2 years his Son <hi>Henry,</hi> cals the matter of <hi>Merindol</hi> into Queſtion, a Lawyer who had leaſt hand in that Maſſacre was executed: but the Cardinall of <hi>Tur<g ref="char:EOLhyphen"/>non</hi> the Archbiſhop of <hi>Arles,</hi> the Biſhop of <hi>Aix,</hi> and <hi>Iohn Minors</hi> eſcaped.</p>
+            <p>The Emperour <hi>Charles</hi> the fifth deceaſed, King <hi>Philip</hi> and the French King concluds a peace, think<g ref="char:EOLhyphen"/>ing to root out thoſe of the Religion in <hi>France,</hi> the <hi>Low-Countries,</hi> and <hi>Scotland,</hi> and then to fall upon <hi>England,</hi> and to ſettle the Decree of the Councell of <hi>Trent,</hi> and to tye it more ſure the <hi>French</hi> King g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve his Daughter to King <hi>Philip;</hi> the day before the Marriage, the King ſat in <hi>Parliament,</hi> and De<g ref="char:EOLhyphen"/>clared there openly, he would have but one Religi<g ref="char:EOLhyphen"/>on in his Realme: <hi>An de Burge</hi> a Noble Councel<g ref="char:EOLhyphen"/>lour told the King, he might not do it, the King Committed him to priſon.</p>
+            <p>The next day in honour of the Marriage day, the King ran at tilt, Count <hi>Montgomeries</hi> Lance ran him in his eye, whereupon he dyed.</p>
+            <p>Note how the Lord as upon a Thealter began with King <hi>Henry,</hi> that as he ſought blood, ſo the Lord gave him bloud to drinke.</p>
+            <pb n="4" facs="tcp:109086:3"/>
+            <p>
+               <hi>Francis</hi> his eldeſt ſon ſucceded his Father <hi>Henry,</hi> the Queene mother gets the Regency, her two brothers, the Cardinal of <hi>Guiſe</hi> for the Church, and the Duke of <hi>Guiſe</hi> for the <hi>Common-weale.</hi> So that <hi>Anthony</hi> King of <hi>Navarr</hi> and his brother <hi>Lewis</hi> Prince of <hi>Condy,</hi> whoſe right that was in the mino<g ref="char:EOLhyphen"/>rities of the young Kings, to rule the <hi>Common wealth</hi> under them were excluded.</p>
+            <p>The Nobility ſeeing the Princes of the bloud ſo to be troden under foote, and ſo the Lawes of the land: ſtirred up themſelves againſt the <hi>Guiſians</hi> that miſled the King. So the Nobles ſat in Councel, and determined to remove the <hi>Guiſians</hi> from the young King; whom they made beleeve that thoſe Nobles did purpoſe to deſtroy the Maſſe, and the Religion of his Fathers: but theſe plots being diſ<g ref="char:EOLhyphen"/>covered by a Captaine that had ſworne to be one of them to effect this buſines, it failed.</p>
+            <p>After this, the King ſent his Letters to the King of <hi>Navare,</hi> to ſend his brother the Prince of <hi>Condy</hi> with a ſtiong Guard, or to come himſelfe with the Prince; the King promiſing upon his honour, they ſhould ſafely come and go, from <hi>Orleans:</hi> But theſe two brothers depending upon the Kings ho<g ref="char:EOLhyphen"/>nour would go, though they were deſired not to go wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout a ſtrong guard, all which they refuſed. But being come to <hi>Orleans,</hi> and coming to the Kings preſence the King ſpake roughly to them, but the Prince of <hi>Condy</hi> deſired to cl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere himſelfe of thoſe points of high <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reaſon, but he was preſently com<g ref="char:EOLhyphen"/>mitted to the Captai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the guard cloſe priſoner, the King of <hi>Navare</hi> had his guard taken from him
+<pb n="5" facs="tcp:109086:3"/>the Prince of <hi>Condy</hi> had his proceſſe made againſt him by thoſe of <hi>Guiſe,</hi> he cleered himſelfe of high treaſon, then they condemned him of Hereſie.</p>
+            <p>While theſe things were doing againſt the P ince of <hi>Condy,</hi> they laboured to diſpatch the King of <hi>Na<g ref="char:EOLhyphen"/>vare:</hi> 1. To poyſon him at a banquet, 2 to get him out a hunting and ſo to kill him; 3. To give the young King a Dager to ſtab him, all theſe failing the King of <hi>Navare</hi> had no hurt done to him. But the Duke of <hi>Guiſe</hi> would preſently have killed him, had not the Cardinal of <hi>Turnon</hi> ſtayed the Duke of <hi>Guiſe,</hi> utill the Conſtable and his Sons were come that were ſent for: ſo the Admirall, and his Sonne Lord <hi>De Andelot</hi> were ſent for, the Admirall would go notwithſtanding the advertiſement of all his freinds, who being come to the Queene, ſhe told him the Cardinal would ſpeak a word or two with him touching his faith, he anſwered, ſhe and the Cardinal, knew his Religion which he would not alter, they of the religion, were 3 dayes and nights in moſt ardent prayers to God for themſelves and Princes. The young King being at Maſſe was ſtrik<g ref="char:EOLhyphen"/>en with a burning feavour, and with it the Phiſto<g ref="char:EOLhyphen"/>la in his eare break, the Queen mother ſends for the King of <hi>Navare</hi> by a gentleman who whiſpered in the Kings eare ſaying deny the Queen nothing that ſhe ſhall demand, and coming to the Queene there ſat by her the Cardinal of <hi>Guiſe,</hi> and the Duke of <hi>Guiſe</hi> very heavily, the Queene ſaid to the King of <hi>Navare,</hi> I would deſire you to reſigne all the right you have in the minoretie of my ſonnes, which he ſigned too; then ſhe made him ſhake hands with
+<pb n="5" facs="tcp:109086:4"/>the Duke of <hi>Guiſe,</hi> and to forget all wrongs for<g ref="char:EOLhyphen"/>merly done: then <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e brought him to the young King who departed his life that Evening, having reigned 17 Moneths.</p>
+            <p>
+               <hi>CHARLES</hi> the 9. being the 2 ſon of King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> of <hi>Valois.</hi> In this Kings firſt Parliament, the moſt Magnanimion, Prince of <hi>Condy</hi> was cleered of all things that any could lay to his charg; the Edict of <hi>Ianuary</hi> is made, for the free exerciſe of thoſe of the Religion, the Counſtable is drawn from the Prince, and through the Queene Mother, and the Counſta<g ref="char:EOLhyphen"/>bles wife, whoſe Prieſts ſounded ſtill in her eares, that the Prince of <hi>Condie</hi> would put down the <hi>Maſſe</hi> in <hi>France,</hi> the Counſtables two eldeſt ſons, ſeeing their Father ready to depart from the Prince, humb<g ref="char:EOLhyphen"/>ly beſought him not to leave the Prince, but could not prevaile. So they laboured much with the King of <hi>Navare,</hi> to ſhew himſelfe Neuter and by little and lit le he left his brother the Prince.</p>
+            <p>Not long after, the Duke of <hi>Guiſe</hi> pasſing by a Uillage <hi>Vaſſy</hi> having 300 armed men entred the Church, where was aſſembled ſo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e 1200 hearing of a Sermon, he cauſed his men to enter where many were ſlaine, thoſe of the Religion compl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ined but could have no redreſſe, which was the cauſe of the firſt Civill Warre, and the King of <hi>Navare</hi> receiv<g ref="char:EOLhyphen"/>ed his deaths wound warring againſt <hi>Roan.</hi>
+            </p>
+            <p>The King of <hi>Spaine</hi> ſolicits with the <hi>French</hi> King to breake the Edict of <hi>Ianuary;</hi> but could not. In this Kings Raigne was ſlaine, <hi>Francis</hi> Duke of <hi>Guiſe Anthony</hi> King of <hi>Navare,</hi> the Counſtable, that No<g ref="char:EOLhyphen"/>ble Prince of <hi>Condy,</hi> beſides many Lords were ſlaine
+<pb n="6" facs="tcp:109086:4"/>in ſeverall battels, Cardinal <hi>Chaſtilian</hi> the Admirals brother a Proteſtant poiſoned, and divers others murthered, this Kings raigne was moſt bloudy e<g ref="char:EOLhyphen"/>ſpecially in the yeare 1572. whom in the marriage of his ſiſter to the young King of <hi>Navare,</hi> he pro<g ref="char:EOLhyphen"/>teſted to the Admiral, that he gave not his ſiſter to the King of <hi>Navare</hi> onely, but to all Proteſtants in the Land, and to ſettle ſuch a Peace that ſhould ne<g ref="char:EOLhyphen"/>ver be diſſolved; yet this King contrary to his oath and promiſe, upon the 24 of <hi>Auguſt</hi> when the Ad<g ref="char:EOLhyphen"/>mirall was in his bed, and many Nobles the D. of <hi>Guiſe</hi> in the Kings name, murthered the Admiral and all his friends; but 1574. God viſited him with ſicknes, and lying upon his death bed, bloud iſſued out of his mouth, noſe, eyes eares, fundament and his yard, ſo rowling in bloud he dyed moſt miſrably in <hi>May.</hi> 1574.</p>
+            <div type="part">
+               <head>HENRY, 3.</head>
+               <p>
+                  <hi>Henry</hi> the 3 of the houſe of <hi>Valois,</hi> did ſhed much bloud by maintaining the holy league; but the Bi<g ref="char:EOLhyphen"/>ſhops wanting treaſure, came to the King deſiring him to raiſe money from the lay people, the King anſwered, oh you Biſhops you made me put downe preaching as if you loved it not; 2. You made me odious to my people by laying taxations on them, I have ſpent ten millions of treaſure and you promiſed me to maintaine the warre your ſelues, I will not tax my people, maintaine the wars yourſelves if you will have warres.</p>
+               <p>But a plot being diſcovered that <hi>Henry</hi> Duke of <hi>Guiſe,</hi> had prepared a paire of Cizers <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſhave the Kings head and put him into a Cloiſter, ſo the D. of <hi>Guiſe</hi> ſhould be made King by the Holy league:
+<pb n="8" facs="tcp:109086:5"/>but the King departed from <hi>Parris</hi> to <hi>Bloys,</hi> whether all thoſe plotters were drawn where the Duke of <hi>Guiſe</hi> with the Cardinal of <hi>Guiſe,</hi> were put to death. The Queene mother dyed for greife, and ſome Moneths after the King himſelfe was ſtabed be a lacobin Fryer, who was made a Saint by the Pope, for killing the Lords annointed.</p>
+               <p>Thus you ſee the ſaying of King <hi>Francis</hi> to his Son was fulfilled, that God would roote out him and his poſterity if he did not juſtice on thoſe who had their hands in that <hi>Maſſacre.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
